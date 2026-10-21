@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Maur%C3%ADcio%20Kaleya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20%26%20SaaS%20Architect&descAlignY=58&descSize=18" alt="Maurício Kaleya Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Maur%C3%ADcio%20Kaleya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Computer%20Engineering%20Student%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18" alt="Maurício Kaleya Header" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0066FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1!+Eu+sou+o+Maur%C3%ADcio+Kaleya+%F0%9F%91%8B+%F0%9F%87%A6%F0%9F%87%B4;Engenheiro+Inform%C3%A1tico+%26+Desenvolvedor+Full-Stack;Criador+do+SiteShield+Security+para+WordPress+%F0%9F%9B%A1%EF%B8%8F;Especialista+em+Sistemas+Web%2C+SaaS%2C+FinTech+%26+Ciberseguran%C3%A7a)](https://github.com/mauriciokaleya31)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0066FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1!+Eu+sou+o+Maur%C3%ADcio+Kaleya+%F0%9F%91%8B+%F0%9F%87%A6%F0%9F%87%B4;Estudante+de+Engenharia+Inform%C3%A1tica+%26+Web+Developer;Criador+do+SiteShield+Security+para+WordPress+%F0%9F%9B%A1%EF%B8%8F;Desenvolvimento+Web%2C+Sistemas+Digitais+%26+Ciberseguran%C3%A7a)](https://github.com/mauriciokaleya31)
 
   <p align="center">
     <a href="mailto:kaleyapt@gmail.com"><img src="https://img.shields.io/badge/Email-kaleyapt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -17,10 +17,10 @@
 
 ### 👨‍💻 Sobre Mim (About Me)
 
-Sou **Maurício Kaleya**, estudante e profissional de **Engenharia Informática** em **Angola 🇦🇴**, focado na arquitetura e desenvolvimento de aplicações Web de alta performance, plataformas SaaS, integrações de pagamentos digitais e soluções corporativas de cibersegurança.
+Sou **Maurício Kaleya**, estudante de **Engenharia Informática** e **Desenvolvedor Web Full-Stack** em **Angola 🇦🇴**, focado na criação de aplicações Web modernas, plataformas digitais, integrações de pagamentos e soluções de cibersegurança.
 
-- 🛡️ **Criador do [SiteShield Security & Anti-Clone](https://github.com/mauriciokaleya31/siteshield-security):** Suíte corporativa de segurança para WordPress com Firewall WAF Inteligente, 2FA TOTP, Scanner Heurístico de Malware com Quarentena, Integridade SHA-256 e Anti-Clone.
-- 🚀 **Foco Técnico:** Desenvolvimento Full-Stack (`PHP`, `JavaScript/TypeScript`, `React`, `Node.js`, `Python`), Engenharia de Plugins para WordPress/WooCommerce, APIs RESTful e Segurança de Aplicações Web (OWASP).
+- 🛡️ **Criador do [SiteShield Security & Anti-Clone](https://github.com/mauriciokaleya31/siteshield-security):** Suíte de segurança para WordPress com Firewall WAF Inteligente, 2FA TOTP, Scanner Heurístico de Malware com Quarentena, Integridade SHA-256 e Anti-Clone.
+- 🚀 **Foco Técnico:** Desenvolvimento Web Full-Stack (`PHP`, `JavaScript/TypeScript`, `React`, `Node.js`, `Python`), Criação de Plugins para WordPress/WooCommerce, APIs RESTful e Segurança Web.
 - 🌍 **Localização:** Luanda / Bengo, Angola 🇦🇴
 - 📫 **Contacto Direto:** **[kaleyapt@gmail.com](mailto:kaleyapt@gmail.com)**
 

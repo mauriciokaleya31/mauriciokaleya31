@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Maur%C3%ADcio%20Kaleya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Computer%20Engineering%20Student%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18" alt="Maurício Kaleya Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Maur%C3%ADcio%20Kaleya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Cloud%20%26%20Hosting%20%E2%80%A2%20APIs%20%26%20AI%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=17" alt="Maurício Kaleya Header" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0066FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1!+Eu+sou+o+Maur%C3%ADcio+Kaleya+%F0%9F%91%8B+%F0%9F%87%A6%F0%9F%87%B4;Estudante+de+Engenharia+Inform%C3%A1tica+%26+Web+Developer;Criador+do+SiteShield+Security+para+WordPress+%F0%9F%9B%A1%EF%B8%8F;Desenvolvimento+Web%2C+Sistemas+Digitais+%26+Ciberseguran%C3%A7a)](https://github.com/mauriciokaleya31)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0066FF&center=true&vCenter=true&width=880&lines=Ol%C3%A1!+Eu+sou+o+Maur%C3%ADcio+Kaleya+%F0%9F%91%8B+%F0%9F%87%A6%F0%9F%87%B4;Desenvolvedor+Web+Full-Stack+%26+Criador+de+Solu%C3%A7%C3%B5es+Digitais;Especialista+em+Cloud%2C+Hospedagem+Web+%26+E-mails+Corporativos+%E2%98%81%EF%B8%8F;Desenvolvimento+de+APIs%2C+Integra%C3%A7%C3%B5es+com+IA+%26+Ciberseguran%C3%A7a+%F0%9F%A4%96;Criador+do+SiteShield+Security+para+WordPress+%F0%9F%9B%A1%EF%B8%8F)](https://github.com/mauriciokaleya31)
 
   <p align="center">
     <a href="mailto:kaleyapt@gmail.com"><img src="https://img.shields.io/badge/Email-kaleyapt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -17,10 +17,16 @@
 
 ### 👨‍💻 Sobre Mim (About Me)
 
-Sou **Maurício Kaleya**, estudante de **Engenharia Informática** e **Desenvolvedor Web Full-Stack** em **Angola 🇦🇴**, focado na criação de aplicações Web modernas, plataformas digitais, integrações de pagamentos e soluções de cibersegurança.
+Sou **Maurício Kaleya**, **Desenvolvedor Web Full-Stack e Criador de Soluções Tecnológicas** em **Angola 🇦🇴**, focado no desenvolvimento de sistemas web modernos, infraestrutura em nuvem, inteligência artificial e cibersegurança.
 
-- 🛡️ **Criador do [SiteShield Security & Anti-Clone](https://github.com/mauriciokaleya31/siteshield-security):** Suíte de segurança para WordPress com Firewall WAF Inteligente, 2FA TOTP, Scanner Heurístico de Malware com Quarentena, Integridade SHA-256 e Anti-Clone.
-- 🚀 **Foco Técnico:** Desenvolvimento Web Full-Stack (`PHP`, `JavaScript/TypeScript`, `React`, `Node.js`, `Python`), Criação de Plugins para WordPress/WooCommerce, APIs RESTful e Segurança Web.
+#### 🚀 O Que Eu Faço & Especialidades:
+- 🌐 **Desenvolvimento Web & Sistemas Sob Medida:** Criação de sites corporativos, plataformas SaaS, e-commerce (WordPress / WooCommerce) e aplicações Full-Stack (`PHP`, `JavaScript/TypeScript`, `React`, `Node.js`, `Python`).
+- 📧 **E-mails Corporativos & Infraestrutura de Comunicação:** Criação, configuração e gestão de contas de e-mail profissional/corporativo, servidores SMTP e autenticação avançada (`SPF`, `DKIM`, `DMARC`).
+- ☁️ **Cloud Computing & Hospedagem Web (Web Hosting):** Configuração e administração de servidores na nuvem, hospedagem de sites e aplicações, gestão de domínios, DNS, SSL e alta disponibilidade.
+- 🔌 **Arquitetura & Integração de APIs:** Desenvolvimento de APIs RESTful seguras, Webhooks, microsserviços e integração de gateways de pagamento e sistemas externos.
+- 🤖 **Inteligência Artificial (IA) & Automação:** Desenvolvimento de soluções inteligentes, assistentes virtuais e integração de modelos de IA em produtos e fluxos de negócio.
+- 🛡️ **Cibersegurança Web:** Criador do **[SiteShield Security & Anti-Clone](https://github.com/mauriciokaleya31/siteshield-security)** para proteção avançada de sites WordPress.
+
 - 🌍 **Localização:** Luanda / Bengo, Angola 🇦🇴
 - 📫 **Contacto Direto:** **[kaleyapt@gmail.com](mailto:kaleyapt@gmail.com)**
 
@@ -53,19 +59,30 @@ Sou **Maurício Kaleya**, estudante de **Engenharia Informática** e **Desenvolv
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas (Tech Stack)
+### 🛠️ Tecnologias, Cloud, IA & Ferramentas (Tech Stack)
 
-#### 💻 Linguagens & Backend
+#### 💻 Linguagens, Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/REST_APIs_%26_Webhooks-0052D4?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
-#### 🎨 Frontend, CMS & Ecossistema Web
+#### ☁️ Cloud, Hospedagem, E-mail Corporativo & IA
+<p>
+  <img src="https://img.shields.io/badge/Cloud_%26_Web_Hosting-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Cloud & Hosting" />
+  <img src="https://img.shields.io/badge/cPanel_%2F_WHM-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/E--mails_Corporativos_(SMTP_%2F_DNS)-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Corporate Email" />
+  <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial_(AI)-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Cloudflare_%26_DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Cybersecurity_%26_WAF-0066FF?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Cybersecurity" />
+</p>
+
+#### 🎨 Frontend, CMS & Bancos de Dados
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
@@ -73,18 +90,8 @@ Sou **Maurício Kaleya**, estudante de **Engenharia Informática** e **Desenvolv
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-#### 🗄️ Bancos de Dados, Segurança & DevOps
-<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Cybersecurity_%26_WAF-0066FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
